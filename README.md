@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-🎓 I'm **Kanishka Thakur**, a final-year Computer Science Engineering student at BSACET, driven by a passion for technology and innovation.  
+🎓 I'm **Kanishka Thakur**, a final-year Computer Science Engineering , driven by a passion for technology and innovation.  
 🌐 I’m a **Full Stack Web Developer** who loves turning ideas into real, user-friendly applications.  
 💡 Currently exploring MERN stack, DSA, and building projects that solve real-world problems.  
 🚀 Always eager to learn, collaborate, and contribute to impactful open-source and tech initiatives.

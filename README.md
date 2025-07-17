@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,9370DB&height=200&section=header&text=Hi%20👋%20I'm%20Kanishka%20Thakur&fontSize=35&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20|%20Final%20Year%20CSE%20Student&descAlignY=60&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%20I'm%20Kanishka%20Thakur&fontSize=35&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20|%20Final%20Year%20CSE%20Student&descAlignY=60&descAlign=60" />
 </p>
 
 ---
@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,9370DB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>

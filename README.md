@@ -47,10 +47,6 @@
 - 🔗 [**Expense Tracker**](https://github.com/kanishka-coder0809/expense-tracker):  
   A full-stack MERN application to manage income and expenses, visualize spending with charts, and filter by date.
 
-- 📰 [**News App**](https://github.com/kanishka-coder0809/News-App):  
-  A React-based news application that fetches the latest headlines via API, offers category filters, and delivers a smooth UX.
-
----
 
 ## 📈 GitHub Stats & Activity
 

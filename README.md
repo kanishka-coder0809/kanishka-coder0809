@@ -41,12 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔗 [**Expense Tracker**](https://github.com/kanishka-coder0809/expense-tracker):  
-  A full-stack MERN application to manage income and expenses, visualize spending with charts, and filter by date.
-
-
 ## 📈 GitHub Stats & Activity
 
 <p align="center">

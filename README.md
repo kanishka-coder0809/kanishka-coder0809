@@ -44,7 +44,7 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishka-coder0809&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kanishka-coder0809&theme=radical&margin-w=10&margin-h=10" />
   <br>
   <img src="https://streak-stats.demolab.com?user=kanishka-coder0809&theme=radical" width="48%" />
 </p>

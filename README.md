@@ -39,12 +39,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+### Github Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=kanishka-coder0809&theme=dark&hide_border=false)
 
-## 📈 GitHub Stats & Activity
-<img src="https://streak-stats.demolab.com?user=kanishka-coder0809&theme=radical" width="48%" /> </p>
-
----
 
 ## 📫 Contact Me
 

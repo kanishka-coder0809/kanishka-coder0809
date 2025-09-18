@@ -42,12 +42,7 @@
 ---
 
 ## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanishka-coder0809&theme=radical&margin-w=10&margin-h=10" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=kanishka-coder0809&theme=radical" width="48%" />
-</p>
+<img src="https://streak-stats.demolab.com?user=mayankdhangar2408&theme=radical" width="48%" /> </p>
 
 ---
 

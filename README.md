@@ -42,7 +42,7 @@
 ---
 
 ## 📈 GitHub Stats & Activity
-<img src="https://streak-stats.demolab.com?user=mayankdhangar2408&theme=radical" width="48%" /> </p>
+<img src="https://streak-stats.demolab.com?user=kanishka-coder0809&theme=radical" width="48%" /> </p>
 
 ---
 
